@@ -42,3 +42,9 @@
 
 **Day 22 （2020-07-25）**\
 完成Lab0, Lab1 https://github.com/tianye-frank/rCore-Tutorial/tree/lab-1
+
+**Day 23 （2020-07-26）**\
+开始研究Lab2，参加第三次线上活动
+
+**Day 24 （2020-07-27）**\
+继续研究Lab2
